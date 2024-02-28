@@ -1,4 +1,4 @@
-# Netflix-stock-price-prediction-using-R-and-shiny
+# Netflix Stock Price Prediction using R and Shiny
 This is a web application for Netflix stock price prediction developed using R and Shiny (R library for building beautiful dashboards).
 ##### You can check some screenshots of the website here.
 Data Summary: <br>
